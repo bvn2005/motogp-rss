@@ -1,22 +1,343 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>MotoGP</title>
-    <link>https://www.motogp.com</link>
-    <description>Latest MotoGP news</description>
-    <language>en-us</language>
+    <title>MT News</title>
+    <link>https://mt-news.ru/news/</link>
+    <description>Moto news</description>
+    <language>ru</language>
     <ttl>60</ttl>
-    <lastBuildDate>Tue, 09 Jun 2026 08:50:23 GMT</lastBuildDate>
 
+    
     <item>
-      <title><![CDATA[MotoGP race results]]></title>
-      <link>https://www.motogp.com/en/news/</link>
+      <title><![CDATA[Петруччи не поедет в Мизано: зато Оливейра возвращается на BMW!]]></title>
+      <link>https://mt-news.ru/news/2026/06/08/193002/</link>
       <description><![CDATA[
-        Auto generated RSS feed
+        
+        8.06.2026
       ]]></description>
-      <pubDate>Tue, 09 Jun 2026 08:50:23 GMT</pubDate>
-      <guid>https://www.motogp.com/en/news/</guid>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/08/193002/</guid>
     </item>
+    
+    <item>
+      <title><![CDATA[Пернат предельно жёсток: Здесь риск огромный]]></title>
+      <link>https://mt-news.ru/news/2026/06/08/192998/</link>
+      <description><![CDATA[
+        
+        8.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/08/192998/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Феррари: Безопасность? Одних правил и изменений недостаточно — нужно воспитывать пилотов]]></title>
+      <link>https://mt-news.ru/news/2026/06/08/193000/</link>
+      <description><![CDATA[
+        
+        8.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/08/193000/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Как выбрать депозит для бизнеса и не потерять ликвидность]]></title>
+      <link>https://mt-news.ru/news/2026/06/08/193003/</link>
+      <description><![CDATA[
+        
+        8.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/08/193003/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Тест Pirelli в Брно вынуждает MotoGP раскрыть карты на 2027 год]]></title>
+      <link>https://mt-news.ru/news/2026/06/08/192952/</link>
+      <description><![CDATA[
+        
+        8.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/08/192952/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Мартин публично извинился, в комментариях пилоты его простили]]></title>
+      <link>https://mt-news.ru/news/2026/06/08/192991/</link>
+      <description><![CDATA[
+        
+        8.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/08/192991/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Доктор Коста: Маркес? Страдание выковало непобедимого рыцаря]]></title>
+      <link>https://mt-news.ru/news/2026/06/08/192956/</link>
+      <description><![CDATA[
+        
+        8.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/08/192956/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Баньяйя: Я бы никогда не сел играть в покер с Маркесом]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192985/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192985/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Видео большой аварии в первом повороте гонки MotoGP Гран-При Венгрии]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192978/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192978/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Маркес: С 2025 года всё изменилось. Цена была высокой, но оно того стоило]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192980/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192980/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Ди Джанантонио: Супергерои — это те, кто выигрывает, а не те, кто рискует убить пятерых]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192972/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192972/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Ошибка дорого обходится: Хорхе Мартин наказан двойным штрафом длинного круга!]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192970/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192970/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Марини: Это джунгли! Увидел Мартина и подумал — сейчас будет страйк]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192968/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192968/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Лекуона: Доволен, ставлю себе 10 – ехал менее чем в 2 секундах от Маркеса]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192965/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192965/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Акоста: Марк — из тех, кто не сдаётся, и, как видели, я тоже. Всему своё время]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192963/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192963/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Ривола: Хорхе Мартин допустил ошибку, недостойную чемпиона мира]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192961/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192961/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Тардоцци: Марк не на 100%, но у него есть голос, который всегда говорит ему – “можешь сделать больше”]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192959/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192959/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Результаты гонки MotoGP Гран-При Венгрии 2026]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192840/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192840/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Результаты гонки Moto2 Гран-При Венгрии 2026]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192848/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192848/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Результаты гонки Moto3 Гран-При Венгрии 2026]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192854/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192854/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Результаты разминки MotoGP Гран-При Венгрии 2026]]></title>
+      <link>https://mt-news.ru/news/2026/06/07/192839/</link>
+      <description><![CDATA[
+        
+        7.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/07/192839/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Ди Джанантонио: У меня столько держака, что мотоцикл ещё сильнее бесится]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192934/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192934/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Дело Leopard: Никаких доказательств вмешательства, лишь предположения]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192932/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192932/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Акоста отвечает Марку: К счастью, у меня нет Ducati? Мы не так уж плохи]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192921/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192921/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Топрак: Лекуона? Я не удивлён, он едет на Ducati]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192919/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192919/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Баньяйя: Ducati ближе к Aprilia на Балатоне? Разницу делает Маркес]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192917/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192917/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Крачлоу: Сорок лет — и я всё ещё учусь, торможу там, где заканчивается чёрная линия]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192915/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192915/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Лекуона: На Балатоне обгонять на MotoGP хуже, чем на Superbike]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192913/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192913/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Результаты спринт-гонки MotoGP Гран-При Венгрии 2026]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192838/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192838/</guid>
+    </item>
+    
+    <item>
+      <title><![CDATA[Результаты второй квалификации Moto2 Гран-При Венгрии 2026]]></title>
+      <link>https://mt-news.ru/news/2026/06/06/192847/</link>
+      <description><![CDATA[
+        
+        6.06.2026
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:07:13 GMT</pubDate>
+      <guid>https://mt-news.ru/news/2026/06/06/192847/</guid>
+    </item>
+    
 
   </channel>
 </rss>
