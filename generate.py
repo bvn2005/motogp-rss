@@ -30,7 +30,7 @@ for a in soup.select("a.border.border-radius.padding"):
       <title><![CDATA[{title}]]></title>
       <link>{link}</link>
       <description><![CDATA[
-        <img}
+        {img}
         {date}
       ]]></description>
       <pubDate>{datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')}</pubDate>
