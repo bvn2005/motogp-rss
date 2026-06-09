@@ -15,13 +15,17 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
 
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
       - name: Run script
         run: python generate.py
 
       - name: Commit changes
         run: |
-          git config user.name "bot"
-          git config user.email "bot@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@github.com"
           git add motogp.xml
           git commit -m "update rss" || echo "no changes"
           git push
